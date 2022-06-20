@@ -1,6 +1,6 @@
 # hackathon-submission-template
-Please use this template for submitting solutions for the Microsoft Azure Women's Hackathon 2022
-Solution Title:- Being Queen(Women Empowerment website)
+
+#Solution Title:- Being Queen(Women Empowerment website)
 Solution description 
 As we all know, empowering women is essential to the health and social development of families, communities and countries. When women are living safe, fulfilled and productive lives, they can reach their full potential. contributing their skills to the workforce and can raise happier and healthier children. So women empowerment is the need of the hour.
 	Here I present a innovative solution for women empowerment, “Being  Queen”, a website that helps women to chat with friendly bot and free-up their mind, and ask the bot for health and hygiene tips, can ask for make-up tips , can ask for skin care tip, can also ask for hair care tips and can also give them emotional support which we get after talking to a friend.
