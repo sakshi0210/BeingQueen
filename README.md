@@ -1,4 +1,5 @@
 # hackathon-submission-template
+# * Theme: Invent Tech-based solutions for Women Empowerment in India.
 
 # * Solution Title:- Being Queen(Women Empowerment website)
 
@@ -16,3 +17,14 @@ As we all know, empowering women is essential to the health and social developme
 * Knowledge of various government schemes for girls and women in India.
 * To know about various laws and acts protecting women and girls against any type of abuse or misbehavior.
 This is the live link to website "Being Queen" https://being-queen.sakshivispute.repl.co/
+# * Working
+This website is made in order to empower women by giving them correct guidance about all the mentioned topics , and chatting with friendly chat bot .
+Chat bot is made using azure qna maker and azure bot service, her we have used azure cognitive services.
+All the other result are shown according to google search results
+# * Technologies used
+* Azure
+* Azure cognitive services
+* Azure Qna maker 
+* Azure bot service
+* HTML
+* CSS
